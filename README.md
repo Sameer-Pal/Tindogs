@@ -1,2 +1,1 @@
-# Tindogs
-Website for connecting Dogs
+TinDog Starting Files
